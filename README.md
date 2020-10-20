@@ -1,2 +1,2 @@
 # superior
-Solar and inverter imstallation
+Solar and inverter installation
